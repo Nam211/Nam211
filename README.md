@@ -21,6 +21,13 @@ I build things — AI apps, backend systems, and whatever problem needs solving 
 - 🥈 First Runner-up — Samsung Prism GenAI Hackathon 2025
 - 📊 Top 20 — L'Oréal Sustainability Challenge 2025
 - 💬 I like public speaking, cricket data, and building things that actually ship
+  
+
+## 📊 My GitHub Insights
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nam211&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nam211&layout=compact&theme=dark)
 
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sangar-291970258/)
