@@ -23,7 +23,7 @@ I build things — AI apps, backend systems, and whatever problem needs solving 
 - 🥈 Second Runner-up — SabkaAI Hackathon 2026
 - 🥈 First Runner-up — Samsung Prism GenAI Hackathon 2025
 - 📊 Top 20 — L'Oréal Sustainability Challenge 2025
-- 💬 I like public speaking, cricket data, and building things that actually ship
+
   
 
 ### 📊 My GitHub Insights:
