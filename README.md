@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Naman 👋
 
-<!--
-**Nam211/Nam211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ENC student at Thapar Institute · Patiala, India  
+I build things — AI apps, backend systems, and whatever problem needs solving next.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🎵 **Verse-Forge** — AI song generation app (React + Node.js + NLP)
+- 🏥 **MediRAG** — Medical Q&A RAG pipeline (FastAPI + FAISS + OpenAI)
+- 🔗 **CloudCRM Connector** — Scalable API integration layer (Python + FastAPI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack I reach for
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+## A few things about me
+- 🥈 Second Runner-up — SabkaAI Hackathon 2026
+- 🥈 First Runner-up — Samsung Prism GenAI Hackathon 2025
+- 📊 Top 20 — L'Oréal Sustainability Challenge 2025
+- 💬 I like public speaking, cricket data, and building things that actually ship
+
+## Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sangar-291970258/)
