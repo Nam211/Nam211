@@ -8,6 +8,8 @@ I build things — AI apps, backend systems, and whatever problem needs solving 
 - 🏥 **MediRAG** — Medical Q&A RAG pipeline (FastAPI + FAISS + OpenAI)
 - 🔗 **CloudCRM Connector** — Scalable API integration layer (Python + FastAPI)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## Stack I reach for
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -16,6 +18,7 @@ I build things — AI apps, backend systems, and whatever problem needs solving 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
+
 ## A few things about me
 - 🥈 Second Runner-up — SabkaAI Hackathon 2026
 - 🥈 First Runner-up — Samsung Prism GenAI Hackathon 2025
@@ -23,8 +26,7 @@ I build things — AI apps, backend systems, and whatever problem needs solving 
 - 💬 I like public speaking, cricket data, and building things that actually ship
   
 
-## 📊 My GitHub Insights
-
+### 📊 My GitHub Insights:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nam211&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nam211&layout=compact&theme=dark)
